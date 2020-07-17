@@ -9,6 +9,10 @@
 
 <?php 
   echo "hola mundo de programación";
+  
+  function suma($x, $y){
+      return $x + $y;
+  }
 ?>
 
 </body> 
