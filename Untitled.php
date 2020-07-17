@@ -8,7 +8,7 @@
 <body>
 
 <?php 
-
+  echo "hola mundo de programación";
 ?>
 
 </body> 
